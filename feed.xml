@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>jam.krispyrecords.com</title>
+    <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
+    <link href="https://jam.krispyrecords.com" />
+    <updated>2024-05-25T15:01:32+02:00</updated>
+    <author>
+        <name>Jerem</name>
+    </author>
+    <id>https://jam.krispyrecords.com</id>
+
+    <entry>
+        <title>Post 1</title>
+        <author>
+            <name>Jerem</name>
+        </author>
+        <link href="https://jam.krispyrecords.com/krispy-jam-4/"/>
+        <id>https://jam.krispyrecords.com/krispy-jam-4/</id>
+        <media:content url="https://jam.krispyrecords.com/media/posts/1/KR_Petite_Halle_4_01032024_by_Jeremy_Lanfranchi_ridershow-40.jpeg" medium="image" />
+            <category term="Krispy Jam 4"/>
+
+        <updated>2024-05-25T15:01:32+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

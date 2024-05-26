@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jam.krispyrecords.com",
+    "description": "",
+    "home_page_url": "https://jam.krispyrecords.com",
+    "feed_url": "https://jam.krispyrecords.com/feed.json",
+    "user_comment": "",
+    "icon": "https://jam.krispyrecords.com/media/website/KRISPY-JAM_LOGO2024_Light.jpg",
+    "author": {
+        "name": "Jerem"
+    },
+    "items": [
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-4/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-4/",
+            "title": "Post 1",
+            "image": "https://jam.krispyrecords.com/media/posts/1/KR_Petite_Halle_4_01032024_by_Jeremy_Lanfranchi_ridershow-40.jpeg",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+                   "Krispy Jam 4"
+            ],
+            "date_published": "2024-05-25T15:01:32+02:00",
+            "date_modified": "2024-05-25T15:01:32+02:00"
+        }
+    ]
+}

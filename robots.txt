@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jam.krispyrecords.com/sitemap.xml
